@@ -1,4 +1,5 @@
-function Row(index){
+function Row(index){        linha1.addCol(new Column(1));
+
     this.index = index;
     this.html = '\n\t\t<tr>\n\t\t</tr>';
     this.class = '';
