@@ -1,4 +1,6 @@
-function Header(){
+function Header(head){
+
+
     this.html = '\n\t<thead>' +
         '\n\t\t<tr>' +
         '\n\t\t</tr>' +
